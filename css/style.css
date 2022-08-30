@@ -36,14 +36,15 @@ header, section, footer, aside, nav, main, article, figure {
   }
   
   h1 {
-      font-size: 3em;
-      font-family: 'Marion Bold', serif;
+      font-size: 2.5em;
+      font-family: 'Marion Bold',serif;
+      margin: 0;
       line-height: 55px;
   }
   
   /* #LINKS */
   a {
-    color: rgba(0,0,0,.4);;
+    color: rgba(0, 0, 0, 0.759);;
     text-decoration: none;
   }
   
@@ -83,7 +84,7 @@ header, section, footer, aside, nav, main, article, figure {
   
   /* #IMAGES */
   img {
-    max-width: 115%;
+    max-width: 100%;
     height: auto;
   }
   
@@ -119,9 +120,10 @@ header, section, footer, aside, nav, main, article, figure {
   }
   
   .site-branding h1 {
-      font-size: 2em;
+      font-size: 2.5em;
+      font-family: 'Marion Bold',serif;
       margin: 0;
-      font-weight: normal;
+      line-height: 55px;
   }
   
   .site-navigation ul {
