@@ -37,6 +37,8 @@ header, section, footer, aside, nav, main, article, figure {
   
   h1 {
       font-size: 3em;
+      font-family: 'Marion Bold', serif;
+      line-height: 55px;
   }
   
   /* #LINKS */
@@ -81,7 +83,7 @@ header, section, footer, aside, nav, main, article, figure {
   
   /* #IMAGES */
   img {
-    max-width: 100%;
+    max-width: 115%;
     height: auto;
   }
   
