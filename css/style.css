@@ -23,6 +23,13 @@
 header, section, footer, aside, nav, main, article, figure {
     display: block;
   }
+
+
+  /* BODY*/
+  .body,.aboutpage {
+  background-color: lightblue;
+  margin: 0 auto;
+  }
   
   /* #TYPOGRAPHY  */
   body {
@@ -155,7 +162,7 @@ header, section, footer, aside, nav, main, article, figure {
   
   .hero {
       padding: 4em 0;
-      background: #437dd6;
+      background: #d8d8d8;
       margin-bottom: 6em;
   }
   
